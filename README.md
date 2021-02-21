@@ -1,6 +1,6 @@
 ## Ditto
 ### What
-Application that utilizes a headless browser to scrape an creator's entire Patreon post history via
+Application that utilizes a headless browser to scrape a creator's entire Patreon post history via
 official API and download attached audio files, optionally tagging them in the process<br>
 Logs downloaded titles and skips them in future use cases
 
